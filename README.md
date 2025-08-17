@@ -36,7 +36,7 @@ By implementing DevSecOps practices and leveraging modern technologies like Kube
 
 1. Clone the GitHub repository.
 
-**GITHUB REPO**: [Chatbot-UI](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-28/Chatbot-UI)
+**GITHUB REPO**: [Chatbot-UI](https://github.com/narayanbodade662/Chatbot-Repo.git)
 
 ```
 git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-28/Chatbot-UI
